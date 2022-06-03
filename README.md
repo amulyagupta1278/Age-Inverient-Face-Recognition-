@@ -45,4 +45,3 @@ for resultant interest points are found. Key points are selected which are robus
 key point location based on local image-gradient directions.
 * Next, the feature description is performed. The local image gradients are measured at the selected
 scale in the neigh- borhood of a key point. And 128D feature descriptor is obtained
-* TEst branch is used for
